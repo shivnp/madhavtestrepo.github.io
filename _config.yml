@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   the Indian Institute of Technology Kanpur, started in 2018 by Prof. Vipul Arora. Current focus
   of the research group lie at the intersection of the theory and application of machine learning - with a focus on applications 
   in audio and speech processing, and Physics.
-baseurl: ""
+baseurl: "https://madhavtestrepo.github.io"
 url: ""
 
 google_analytics: ""
